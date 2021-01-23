@@ -1,0 +1,58 @@
+.container {
+    width: 500px;
+    margin: 200px auto;
+}
+
+.buttons {
+    outline: none;
+    border: none;
+    background-color: ghostwhite;
+    margin: 10px 15px;
+    transition: all 0.3s;
+}
+
+.buttons:hover {
+    transform: translateY(-2px);
+    box-shadow: 0px 0px 22px lightgray;
+}
+
+.fab {
+    padding: 20px;
+    font-size: 30px;
+    background-color: ghostwhite;
+    outline: none;
+    border: none;
+}
+
+
+/*  #btn1 {
+    box-shadow: 0px 19px 20px -20px rgb(0, 76, 216);
+} 
+
+#btn2 {
+    box-shadow: 0px 19px 20px -20px red;
+}
+
+#btn3 {
+    box-shadow: 0px 19px 20px -20px rgb(0, 80, 185);
+} */
+
+.fa-youtube {
+    color: rgb(185, 0, 0);
+    box-shadow: 0px 19px 20px -20px red;
+}
+
+.fa-facebook-f {
+    color: rgb(0, 76, 216);
+    box-shadow: 0px 19px 20px -20px rgb(0, 76, 216);
+}
+
+.fa-linkedin {
+    color: rgb(0, 80, 185);
+    box-shadow: 0px 19px 20px -20px rgb(0, 80, 185);
+}
+
+
+/* .buttons:hover {
+   
+} */
